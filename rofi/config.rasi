@@ -1,5 +1,5 @@
   * {
-        bg: #121212;
+        bg: #2a2a2a;
         background-color: @bg;
     }
 
@@ -29,7 +29,7 @@
 
     element {
 	    padding: 4 12;
-	    text-color: #121212;
+	    text-color: #2a2a2a;
         border-radius: 5px;
     }
 
@@ -51,12 +51,12 @@
     }
 
 	element.selected.active {
-		background-color: #121212;
+		background-color: #2a2a2a;
 		text-color: #bfbdb6;
 	}
  
 	element.alternate.normal {
-		background-color: #121212;
+		background-color: #2a2a2a;
 		text-color: #bfbdb6;
 	}
 
@@ -68,24 +68,24 @@
 
 	element.selected.normal {
 		background-color: #ff8f40;
-		text-color: #121212;
+		text-color: #2a2a2a;
 	}
  
 
 	element.normal.active {
-		background-color: #121212;
+		background-color: #2a2a2a;
 		text-color: #bfbdb6;
 	}
  
 
 	element.normal.normal {
-		background-color: #121212;
+		background-color: #2a2a2a;
 		text-color: #bfbdb6;
 	}
  
 	element.normal.urgent {
 		background-color: #f25d78;
-		text-color: #121212;
+		text-color: #2a2a2a;
 	}
 
 	
@@ -110,7 +110,7 @@
     }
 
     inputbar {
-	    background-image: url("~/.config/rofi/rofi.png", width);
+	    background-image: url("~/.config/rofi/rofi.jpg", width);
 	    padding: 180 0 0;
 	    margin: 0 0 0 0;
     } 
